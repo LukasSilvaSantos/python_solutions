@@ -1,0 +1,8 @@
+git add . (selecionar todos os arquivos alterados)
+
+git commit -m "as suas alterações" (esse comando prepara as alterações)
+
+git push -u origin nome_da_branch (esse comando "empurra" as alterações para o repositório online)
+
+==============================COMANDOS=================================================== 
+

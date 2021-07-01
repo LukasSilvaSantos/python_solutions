@@ -1,0 +1,15 @@
+Comparações logicas
+
+Operador    Comparação
+
+==           Igual
+
+!=           Diferente
+
+<            Menor
+
+>            Maior que
+
+<=           Menor igual
+
+>=           maior igual

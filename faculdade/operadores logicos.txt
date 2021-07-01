@@ -1,0 +1,9 @@
+Operadores lógicos 
+
+Python     pseudocódigo      Operação
+            
+not        não                negação
+
+and        e                  conjunção
+
+or         ou                 disjunção
