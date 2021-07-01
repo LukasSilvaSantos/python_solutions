@@ -1,0 +1,5 @@
+pergunta = input('Digite seu nome: ')
+idade = str(input('Quantos anos voçê tem?: '))
+resposta = str(',com base nos meus calculos computacionais, voçê e o lucas foram feitos um para o outro.')
+print(f'{pergunta} {resposta}. ')
+input()
