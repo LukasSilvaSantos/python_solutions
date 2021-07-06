@@ -1,5 +1,5 @@
 import random
-print('olá, eu sou um bot INSANO!, vamos brincar de pedra, papel ou tesoura?')
+print('olá, eu sou um bot MUITO LEGAL!, vamos brincar de pedra, papel ou tesoura?')
 sim_ou_nao = input('sim ou não?: ')
 if sim_ou_nao == 'sim':
     print('OK, vamos começar!')
